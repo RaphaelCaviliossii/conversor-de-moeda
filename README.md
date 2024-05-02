@@ -1,12 +1,17 @@
-<h1>Esse projeto foi criado para converter moedas no DevClub</h1>
-
+<h1>Esse projeto foi criado para converter algumas moedas no DevClub</h1>
+<br>
 <h2>De <b>Real Brasileiro</b> para:</h2>  
 <br><b>Dólar 
 <br>Euro 
 <br>Bitcoin 
-<br> Franco Suiço</b>
+<br> Franco Suiço</b><br>
+<br>
+<p><b>Link para o projeto</b></p>
+:point_down:
+<h3><a href="https://raphaelcaviliossii.github.io/conversor-de-moeda/">Clique Aqui</a></h3>
+:point_up_2:
 
-<h3>Foi utilizados</h3> 
+<h3>Tecnologias utilizadas.</h3> 
 
 <br> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
@@ -33,3 +38,5 @@
 [![Raphael GitHub stats](https://github-readme-stats.vercel.app/api?username=raphaelcaviliossii)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelcaviliossii)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://github.com/RaphaelCaviliossii/conversor-de-moeda/blob/main/assets/zeus%20converter%20money.png?raw=true" >
